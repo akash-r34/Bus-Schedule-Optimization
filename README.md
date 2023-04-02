@@ -22,3 +22,10 @@ The <b>OpenAPI 1.2</b> API provided by TransLoc is a public API that allows deve
 <p>Web content mining, on the other hand, refers to the process of extracting useful information from the content of web pages, such as text, images, and videos. While an API may not necessarily provide access to raw web page content, it can still be used to extract structured data, such as transit schedules or real-time vehicle locations.</p>
 
 <p>Therefore, while getting data from an API is not a traditional form of web mining, it can still be classified as a type of web data mining or web content mining, depending on the nature of the data being retrieved</p>
+
+<h2>References</h2>
+<ol>
+<li><a href="https://www.researchgate.net/publication/317745436_Environmental_Impacts_of_Promoting_New_Public_Transport_Systems_in_Urban_Mobility_A_Case_Study">
+Environmental Impacts of Promoting New Public Transport Systems in Urban Mobility: A Case Study</a></li>
+<li><a href="https://afdc.energy.gov/data/10310">Average Fuel Economy by Major Vehicle Category</a></li>
+</ol>
